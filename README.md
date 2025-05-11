@@ -23,4 +23,3 @@ A complete DevOps project demonstrating:
 Backend:   Flask (Python) + psutil
 Frontend:  HTML/CSS + Chart.js
 DevOps:    Docker · GitHub Actions · Terraform
-![image](https://github.com/user-attachments/assets/b6902efd-5c7a-4904-83fc-d0a032d096a0)
